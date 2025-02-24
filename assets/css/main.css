@@ -1258,7 +1258,7 @@ a.image {
     transform: scale(1.075); }
 
 .image.profile-img {
-  max-width: 300px; /* 프로필 이미지 크기 고정 */
+  max-width: 500px; /* 프로필 이미지 크기 고정 */
   width: auto;
   height: auto;
 }
